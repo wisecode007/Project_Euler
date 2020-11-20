@@ -1,3 +1,3 @@
 # Project_Euler
-My solutions for [https://projecteuler.net/]("Project Euler")
+My solutions for ["Project Euler"](https://projecteuler.net/)
 
